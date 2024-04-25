@@ -1,2 +1,5 @@
-# VPNSetup
-Explanation of VPNs, how they're set up, and how they're used. 
+# Virtual Private Networks (VPN): Setup and Usage
+
+> [!Note]
+> What is a VPN?
+> 
