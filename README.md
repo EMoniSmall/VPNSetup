@@ -1,4 +1,4 @@
-# Virtual Private Networks (VPN): Setup and Usage
+# Virtual Private Networks: Setting Up and Using VPNs
 
 > [!Note]
 > What is a VPN?
